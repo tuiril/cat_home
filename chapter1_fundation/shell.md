@@ -61,4 +61,5 @@ mv a/c.txt b/c.txt 将a文件夹中的c.txt移动到b文件夹中，名字仍为
 
 mv a/c.txt b/d.txt 将a文件夹中的c.txt移动到b文件夹中，改名为d.txt
 
-
+## *
+所有文件 eg：lin/* lin文件夹下所有文件；rm *.csv 删除当前目录下所有csv文件 
